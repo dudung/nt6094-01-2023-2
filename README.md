@@ -1,7 +1,7 @@
 # nt6094-01-2023-2
 Scientific Journal Writing course 01 class in 2023-2 semester Feb-May 2024
 
-+ `20-mar-2024` The use of AI in publications ([task]((https://github.com/dudung/nt6094-01-2023-2/issues/7))
++ `20-mar-2024` The use of AI in publications ([task](https://github.com/dudung/nt6094-01-2023-2/issues/7))
 + `13-mar-2024` Example of making introduction ([slide](https://osf.io/6fsy9))
 + `28-feb-2024` Journal Introduction ([slide](https://zenodo.org/records/7103265), [task](https://github.com/dudung/nt6094-01-2023-2/issues/5), [lms](https://edunex.itb.ac.id/courses/58912/preview/237160))
 + `21-feb-2024` Publication access and journal indexing ([slide-1](https://zenodo.org/records/7058928), [slide-2](https://zenodo.org/records/7082129), [task](https://github.com/dudung/nt6094-01-2023-2/issues/4), [lms](https://edunex.itb.ac.id/courses/58912/preview/234932))
